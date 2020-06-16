@@ -6,4 +6,4 @@
 0005-tests-build-with-qt5-9.patch
 0006-remove-example-doc-include.patch
 0007-arm-use-thumb.patch
-0008-uports-depends-patch
+0008-ubports-depends-patch
