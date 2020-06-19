@@ -7,3 +7,4 @@
 0006-remove-example-doc-include.patch
 0007-arm-use-thumb.patch
 0008-ubports-depends.patch
+0009-opengl-extra.patch
